@@ -1,0 +1,20 @@
+# Keep the Docker build context small and free of secrets/personal data.
+node_modules
+dist
+.git
+.gitignore
+.claude
+.env
+.env.*
+*.local
+*.bak
+*.bak/
+icons_first_version.bak
+harmony-shake-*.json
+screenshots
+backups
+data
+scripts
+harmony_tree_bdocodex.json
+README.md
+*.log

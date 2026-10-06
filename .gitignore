@@ -1,0 +1,70 @@
+# ── Secrets ──────────────────────────────────────────────
+# The app keeps your Anthropic API key only in browser localStorage, never in files.
+# These rules guard against a key ever being put in a file by hand or by tooling.
+.env
+.env.*
+!.env.example
+*.local
+*.pem
+*.key
+secrets/
+**/*secret*
+**/*apikey*
+**/*api_key*
+.anthropic/
+
+# ── Personal data ────────────────────────────────────────
+# "Export backup" files (your stock, history, learned slots). The key is stripped
+# from exports, but your inventory is still personal.
+harmony-shake-*.json
+backups/
+# Your own storage screenshots, if you keep them in the project folder
+screenshots/
+*.screenshot.png
+
+# ── Claude Code local settings ───────────────────────────
+.claude/settings.local.json
+.claude/*.local.*
+
+# ── Python ───────────────────────────────────────────────
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# ── Logs ─────────────────────────────────────────────────
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ── Build output / dependencies ──────────────────────────
+node_modules
+dist
+dist-ssr
+
+# ── Editor / OS ──────────────────────────────────────────
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+Thumbs.db
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ── Game assets (optional) ───────────────────────────────
+# public/icons/ holds item icons downloaded from bdocodex.com — Pearl Abyss artwork.
+# For a public repo, consider uncommenting these lines and letting users run
+# `python scripts/fetch_icons.py` to download the icons themselves.
+# public/icons/
+# data/codex_icons.json
+
+# Local backups
+*.bak/
+*.bak

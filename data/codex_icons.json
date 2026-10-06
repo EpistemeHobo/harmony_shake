@@ -1,0 +1,1154 @@
+{
+  "party-harmony-draught-edania": {
+    "codexId": 1407,
+    "source": "/items/new_icon/03_etc/08_potion/00001407.webp",
+    "file": "/icons/party-harmony-draught-edania.webp",
+    "grade": 3
+  },
+  "adaptation-draught": {
+    "codexId": 1391,
+    "source": "/items/new_icon/03_etc/08_potion/00001391.webp",
+    "file": "/icons/adaptation-draught.webp",
+    "grade": 3
+  },
+  "berserk-draught": {
+    "codexId": 1397,
+    "source": "/items/new_icon/03_etc/08_potion/00001397.webp",
+    "file": "/icons/berserk-draught.webp",
+    "grade": 3
+  },
+  "brutal-death-elixir": {
+    "codexId": 687,
+    "source": "/items/new_icon/03_etc/08_potion/00000624.webp",
+    "file": "/icons/brutal-death-elixir.webp",
+    "grade": 2
+  },
+  "clear-liquid-reagent": {
+    "codexId": 5301,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005301.webp",
+    "file": "/icons/clear-liquid-reagent.webp",
+    "grade": 0
+  },
+  "clowns-blood": {
+    "codexId": 6353,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00006353.webp",
+    "file": "/icons/clowns-blood.webp",
+    "grade": 0
+  },
+  "corruption-draught": {
+    "codexId": 1395,
+    "source": "/items/new_icon/03_etc/08_potion/00001395.webp",
+    "file": "/icons/corruption-draught.webp",
+    "grade": 3
+  },
+  "defense-elixir": {
+    "codexId": 716,
+    "source": "/items/new_icon/03_etc/08_potion/00000653.webp",
+    "file": "/icons/defense-elixir.webp",
+    "grade": 1
+  },
+  "elixir-of-advanced-concentration": {
+    "codexId": 701,
+    "source": "/items/new_icon/03_etc/08_potion/00000638.webp",
+    "file": "/icons/elixir-of-advanced-concentration.webp",
+    "grade": 2
+  },
+  "elixir-of-agile-spells": {
+    "codexId": 693,
+    "source": "/items/new_icon/03_etc/08_potion/00000630.webp",
+    "file": "/icons/elixir-of-agile-spells.webp",
+    "grade": 2
+  },
+  "elixir-of-assassination": {
+    "codexId": 696,
+    "source": "/items/new_icon/03_etc/08_potion/00000633.webp",
+    "file": "/icons/elixir-of-assassination.webp",
+    "grade": 1
+  },
+  "elixir-of-brutal-carnage": {
+    "codexId": 719,
+    "source": "/items/new_icon/03_etc/08_potion/00000656.webp",
+    "file": "/icons/elixir-of-brutal-carnage.webp",
+    "grade": 2
+  },
+  "elixir-of-brutal-perforation": {
+    "codexId": 681,
+    "source": "/items/new_icon/03_etc/08_potion/00000618.webp",
+    "file": "/icons/elixir-of-brutal-perforation.webp",
+    "grade": 2
+  },
+  "elixir-of-carnage": {
+    "codexId": 718,
+    "source": "/items/new_icon/03_etc/08_potion/00000655.webp",
+    "file": "/icons/elixir-of-carnage.webp",
+    "grade": 1
+  },
+  "elixir-of-concentration": {
+    "codexId": 700,
+    "source": "/items/new_icon/03_etc/08_potion/00000637.webp",
+    "file": "/icons/elixir-of-concentration.webp",
+    "grade": 1
+  },
+  "elixir-of-death": {
+    "codexId": 686,
+    "source": "/items/new_icon/03_etc/08_potion/00000623.webp",
+    "file": "/icons/elixir-of-death.webp",
+    "grade": 1
+  },
+  "elixir-of-destruction": {
+    "codexId": 1180,
+    "source": "/items/new_icon/03_etc/08_potion/00001182.webp",
+    "file": "/icons/elixir-of-destruction.webp",
+    "grade": 1
+  },
+  "elixir-of-detection": {
+    "codexId": 698,
+    "source": "/items/new_icon/03_etc/08_potion/00000635.webp",
+    "file": "/icons/elixir-of-detection.webp",
+    "grade": 1
+  },
+  "elixir-of-draining": {
+    "codexId": 676,
+    "source": "/items/new_icon/03_etc/08_potion/00000613.webp",
+    "file": "/icons/elixir-of-draining.webp",
+    "grade": 1
+  },
+  "elixir-of-edania": {
+    "codexId": 1409,
+    "source": "/items/new_icon/03_etc/08_potion/00001409.webp",
+    "file": "/icons/elixir-of-edania.webp",
+    "grade": 1
+  },
+  "elixir-of-endless-frenzy": {
+    "codexId": 673,
+    "source": "/items/new_icon/03_etc/08_potion/00000610.webp",
+    "file": "/icons/elixir-of-endless-frenzy.webp",
+    "grade": 2
+  },
+  "elixir-of-endless-fury": {
+    "codexId": 705,
+    "source": "/items/new_icon/03_etc/08_potion/00000642.webp",
+    "file": "/icons/elixir-of-endless-fury.webp",
+    "grade": 2
+  },
+  "elixir-of-endurance": {
+    "codexId": 722,
+    "source": "/items/new_icon/03_etc/08_potion/00000659.webp",
+    "file": "/icons/elixir-of-endurance.webp",
+    "grade": 1
+  },
+  "elixir-of-flowing-wind": {
+    "codexId": 689,
+    "source": "/items/new_icon/03_etc/08_potion/00000626.webp",
+    "file": "/icons/elixir-of-flowing-wind.webp",
+    "grade": 2
+  },
+  "elixir-of-frenzy": {
+    "codexId": 672,
+    "source": "/items/new_icon/03_etc/08_potion/00000609.webp",
+    "file": "/icons/elixir-of-frenzy.webp",
+    "grade": 1
+  },
+  "elixir-of-fury": {
+    "codexId": 704,
+    "source": "/items/new_icon/03_etc/08_potion/00000641.webp",
+    "file": "/icons/elixir-of-fury.webp",
+    "grade": 1
+  },
+  "elixir-of-intrepid-swiftness": {
+    "codexId": 691,
+    "source": "/items/new_icon/03_etc/08_potion/00000628.webp",
+    "file": "/icons/elixir-of-intrepid-swiftness.webp",
+    "grade": 2
+  },
+  "elixir-of-lethal-assassin": {
+    "codexId": 697,
+    "source": "/items/new_icon/03_etc/08_potion/00000634.webp",
+    "file": "/icons/elixir-of-lethal-assassin.webp",
+    "grade": 2
+  },
+  "elixir-of-lethal-destruction": {
+    "codexId": 1181,
+    "source": "/items/new_icon/03_etc/08_potion/00001183.webp",
+    "file": "/icons/elixir-of-lethal-destruction.webp",
+    "grade": 2
+  },
+  "elixir-of-life": {
+    "codexId": 708,
+    "source": "/items/new_icon/03_etc/08_potion/00000645.webp",
+    "file": "/icons/elixir-of-life.webp",
+    "grade": 1
+  },
+  "elixir-of-overwhelming-endurance": {
+    "codexId": 723,
+    "source": "/items/new_icon/03_etc/08_potion/00000660.webp",
+    "file": "/icons/elixir-of-overwhelming-endurance.webp",
+    "grade": 2
+  },
+  "elixir-of-perforation": {
+    "codexId": 680,
+    "source": "/items/new_icon/03_etc/08_potion/00000617.webp",
+    "file": "/icons/elixir-of-perforation.webp",
+    "grade": 1
+  },
+  "elixir-of-sharp-detection": {
+    "codexId": 699,
+    "source": "/items/new_icon/03_etc/08_potion/00000636.webp",
+    "file": "/icons/elixir-of-sharp-detection.webp",
+    "grade": 2
+  },
+  "elixir-of-shock": {
+    "codexId": 762,
+    "source": "/items/new_icon/03_etc/08_potion/00000764.webp",
+    "file": "/icons/elixir-of-shock.webp",
+    "grade": 1
+  },
+  "elixir-of-sky": {
+    "codexId": 720,
+    "source": "/items/new_icon/03_etc/08_potion/00000657.webp",
+    "file": "/icons/elixir-of-sky.webp",
+    "grade": 1
+  },
+  "elixir-of-spells": {
+    "codexId": 692,
+    "source": "/items/new_icon/03_etc/08_potion/00000629.webp",
+    "file": "/icons/elixir-of-spells.webp",
+    "grade": 1
+  },
+  "elixir-of-steel-defense": {
+    "codexId": 717,
+    "source": "/items/new_icon/03_etc/08_potion/00000654.webp",
+    "file": "/icons/elixir-of-steel-defense.webp",
+    "grade": 2
+  },
+  "elixir-of-strong-draining": {
+    "codexId": 677,
+    "source": "/items/new_icon/03_etc/08_potion/00000614.webp",
+    "file": "/icons/elixir-of-strong-draining.webp",
+    "grade": 2
+  },
+  "elixir-of-strong-life": {
+    "codexId": 709,
+    "source": "/items/new_icon/03_etc/08_potion/00000646.webp",
+    "file": "/icons/elixir-of-strong-life.webp",
+    "grade": 2
+  },
+  "elixir-of-strong-shock": {
+    "codexId": 763,
+    "source": "/items/new_icon/03_etc/08_potion/00000765.webp",
+    "file": "/icons/elixir-of-strong-shock.webp",
+    "grade": 2
+  },
+  "elixir-of-swiftness": {
+    "codexId": 690,
+    "source": "/items/new_icon/03_etc/08_potion/00000627.webp",
+    "file": "/icons/elixir-of-swiftness.webp",
+    "grade": 1
+  },
+  "elixir-of-will": {
+    "codexId": 702,
+    "source": "/items/new_icon/03_etc/08_potion/00000639.webp",
+    "file": "/icons/elixir-of-will.webp",
+    "grade": 1
+  },
+  "elixir-of-wind": {
+    "codexId": 688,
+    "source": "/items/new_icon/03_etc/08_potion/00000625.webp",
+    "file": "/icons/elixir-of-wind.webp",
+    "grade": 1
+  },
+  "fury-draught": {
+    "codexId": 1389,
+    "source": "/items/new_icon/03_etc/08_potion/00001389.webp",
+    "file": "/icons/fury-draught.webp",
+    "grade": 3
+  },
+  "grim-reapers-elixir": {
+    "codexId": 712,
+    "source": "/items/new_icon/03_etc/08_potion/00000649.webp",
+    "file": "/icons/grim-reapers-elixir.webp",
+    "grade": 1
+  },
+  "grim-soul-reapers-elixir": {
+    "codexId": 713,
+    "source": "/items/new_icon/03_etc/08_potion/00000650.webp",
+    "file": "/icons/grim-soul-reapers-elixir.webp",
+    "grade": 2
+  },
+  "harmony-draught": {
+    "codexId": 1399,
+    "source": "/items/new_icon/03_etc/08_potion/00001399.webp",
+    "file": "/icons/harmony-draught.webp",
+    "grade": 3
+  },
+  "helix-elixir": {
+    "codexId": 782,
+    "source": "/items/new_icon/03_etc/08_potion/00000784.webp",
+    "file": "/icons/helix-elixir.webp",
+    "grade": 1
+  },
+  "legendary-beasts-blood": {
+    "codexId": 6351,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00006351.webp",
+    "file": "/icons/legendary-beasts-blood.webp",
+    "grade": 0
+  },
+  "merciless-sky-elixir": {
+    "codexId": 721,
+    "source": "/items/new_icon/03_etc/08_potion/00000658.webp",
+    "file": "/icons/merciless-sky-elixir.webp",
+    "grade": 2
+  },
+  "oil-of-corruption": {
+    "codexId": 6604,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00006604.webp",
+    "file": "/icons/oil-of-corruption.webp",
+    "grade": 0
+  },
+  "oil-of-fortitude": {
+    "codexId": 6603,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00006603.webp",
+    "file": "/icons/oil-of-fortitude.webp",
+    "grade": 0
+  },
+  "oil-of-regeneration": {
+    "codexId": 6601,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00006601.webp",
+    "file": "/icons/oil-of-regeneration.webp",
+    "grade": 0
+  },
+  "oil-of-storms": {
+    "codexId": 6602,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00006602.webp",
+    "file": "/icons/oil-of-storms.webp",
+    "grade": 0
+  },
+  "oil-of-tranquility": {
+    "codexId": 6605,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00006605.webp",
+    "file": "/icons/oil-of-tranquility.webp",
+    "grade": 0
+  },
+  "potential-draught": {
+    "codexId": 1393,
+    "source": "/items/new_icon/03_etc/08_potion/00001393.webp",
+    "file": "/icons/potential-draught.webp",
+    "grade": 3
+  },
+  "pure-powder-reagent": {
+    "codexId": 5302,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005302.webp",
+    "file": "/icons/pure-powder-reagent.webp",
+    "grade": 0
+  },
+  "purified-water": {
+    "codexId": 6656,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00006656.webp",
+    "file": "/icons/purified-water.webp",
+    "grade": 0
+  },
+  "sinners-blood": {
+    "codexId": 6354,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00006354.webp",
+    "file": "/icons/sinners-blood.webp",
+    "grade": 0
+  },
+  "splendid-helix-elixir": {
+    "codexId": 783,
+    "source": "/items/new_icon/03_etc/08_potion/00000785.webp",
+    "file": "/icons/splendid-helix-elixir.webp",
+    "grade": 2
+  },
+  "strong-elixir-of-edania": {
+    "codexId": 1410,
+    "source": "/items/new_icon/03_etc/08_potion/00001410.webp",
+    "file": "/icons/strong-elixir-of-edania.webp",
+    "grade": 2
+  },
+  "tyrants-blood": {
+    "codexId": 6352,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00006352.webp",
+    "file": "/icons/tyrants-blood.webp",
+    "grade": 0
+  },
+  "wise-mans-blood": {
+    "codexId": 6355,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00006355.webp",
+    "file": "/icons/wise-mans-blood.webp",
+    "grade": 0
+  },
+  "amanita-mushroom": {
+    "codexId": 5419,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005419.webp",
+    "file": "/icons/amanita-mushroom.webp",
+    "grade": 0
+  },
+  "ancient-mushroom": {
+    "codexId": 5418,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005418.webp",
+    "file": "/icons/ancient-mushroom.webp",
+    "grade": 0
+  },
+  "arrow-mushroom": {
+    "codexId": 5408,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005408.webp",
+    "file": "/icons/arrow-mushroom.webp",
+    "grade": 0
+  },
+  "ash-sap": {
+    "codexId": 5001,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005001.webp",
+    "file": "/icons/ash-sap.webp",
+    "grade": 0
+  },
+  "bat-blood": {
+    "codexId": 6219,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00006217.webp",
+    "file": "/icons/bat-blood.webp",
+    "grade": 0
+  },
+  "bear-blood": {
+    "codexId": 6213,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00006207.webp",
+    "file": "/icons/bear-blood.webp",
+    "grade": 0
+  },
+  "big-amanita-mushroom": {
+    "codexId": 5438,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005438.webp",
+    "file": "/icons/big-amanita-mushroom.webp",
+    "grade": 0
+  },
+  "big-ancient-mushroom": {
+    "codexId": 5437,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005437.webp",
+    "file": "/icons/big-ancient-mushroom.webp",
+    "grade": 0
+  },
+  "big-arrow-mushroom": {
+    "codexId": 5427,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005427.webp",
+    "file": "/icons/big-arrow-mushroom.webp",
+    "grade": 0
+  },
+  "big-bluffer-mushroom": {
+    "codexId": 5436,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005436.webp",
+    "file": "/icons/big-bluffer-mushroom.webp",
+    "grade": 0
+  },
+  "big-cloud-mushroom": {
+    "codexId": 5429,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005429.webp",
+    "file": "/icons/big-cloud-mushroom.webp",
+    "grade": 0
+  },
+  "big-dwarf-mushroom": {
+    "codexId": 5428,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005428.webp",
+    "file": "/icons/big-dwarf-mushroom.webp",
+    "grade": 0
+  },
+  "big-emperor-mushroom": {
+    "codexId": 5432,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005432.webp",
+    "file": "/icons/big-emperor-mushroom.webp",
+    "grade": 0
+  },
+  "big-fortune-teller-mushroom": {
+    "codexId": 5426,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005426.webp",
+    "file": "/icons/big-fortune-teller-mushroom.webp",
+    "grade": 0
+  },
+  "big-ghost-mushroom": {
+    "codexId": 5433,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005433.webp",
+    "file": "/icons/big-ghost-mushroom.webp",
+    "grade": 0
+  },
+  "big-hump-mushroom": {
+    "codexId": 5435,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005435.webp",
+    "file": "/icons/big-hump-mushroom.webp",
+    "grade": 0
+  },
+  "big-sky-mushroom": {
+    "codexId": 5430,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005430.webp",
+    "file": "/icons/big-sky-mushroom.webp",
+    "grade": 0
+  },
+  "big-tiger-mushroom": {
+    "codexId": 5431,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005431.webp",
+    "file": "/icons/big-tiger-mushroom.webp",
+    "grade": 0
+  },
+  "birch-sap": {
+    "codexId": 5004,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005004.webp",
+    "file": "/icons/birch-sap.webp",
+    "grade": 0
+  },
+  "bloody-tree-knot": {
+    "codexId": 5005,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005005.webp",
+    "file": "/icons/bloody-tree-knot.webp",
+    "grade": 0
+  },
+  "blue-reagent": {
+    "codexId": 4916,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00004916.webp",
+    "file": "/icons/blue-reagent.webp",
+    "grade": 0
+  },
+  "bluffer-mushroom": {
+    "codexId": 5417,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005417.webp",
+    "file": "/icons/bluffer-mushroom.webp",
+    "grade": 0
+  },
+  "bottle-of-river-water": {
+    "codexId": 6653,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00006653.webp",
+    "file": "/icons/bottle-of-river-water.webp",
+    "grade": 0
+  },
+  "bunch-of-fire-flake-flowers": {
+    "codexId": 55384,
+    "source": "/items/new_icon/03_etc/10_free_tradeitem/00055384.webp",
+    "file": "/icons/bunch-of-fire-flake-flowers.webp",
+    "grade": 0
+  },
+  "bunch-of-silver-azaleas": {
+    "codexId": 5422,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005422.webp",
+    "file": "/icons/bunch-of-silver-azaleas.webp",
+    "grade": 0
+  },
+  "caphras-tree-sap": {
+    "codexId": 5025,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005025.webp",
+    "file": "/icons/caphras-tree-sap.webp",
+    "grade": 0
+  },
+  "cedar-sap": {
+    "codexId": 5010,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005010.webp",
+    "file": "/icons/cedar-sap.webp",
+    "grade": 0
+  },
+  "cheetah-dragon-blood": {
+    "codexId": 6216,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00006226.webp",
+    "file": "/icons/cheetah-dragon-blood.webp",
+    "grade": 0
+  },
+  "cloud-mushroom": {
+    "codexId": 5410,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005410.webp",
+    "file": "/icons/cloud-mushroom.webp",
+    "grade": 0
+  },
+  "cobra-blood": {
+    "codexId": 6222,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00006217.webp",
+    "file": "/icons/cobra-blood.webp",
+    "grade": 0
+  },
+  "deer-blood": {
+    "codexId": 6201,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00006201.webp",
+    "file": "/icons/deer-blood.webp",
+    "grade": 0
+  },
+  "dinosaur-blood": {
+    "codexId": 6207,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00006207.webp",
+    "file": "/icons/dinosaur-blood.webp",
+    "grade": 0
+  },
+  "distilled-water": {
+    "codexId": 6651,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00006651.webp",
+    "file": "/icons/distilled-water.webp",
+    "grade": 0
+  },
+  "dwarf-mushroom": {
+    "codexId": 5409,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005409.webp",
+    "file": "/icons/dwarf-mushroom.webp",
+    "grade": 0
+  },
+  "emperor-mushroom": {
+    "codexId": 5413,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005413.webp",
+    "file": "/icons/emperor-mushroom.webp",
+    "grade": 0
+  },
+  "everlasting-herb": {
+    "codexId": 5406,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005406.webp",
+    "file": "/icons/everlasting-herb.webp",
+    "grade": 0
+  },
+  "fire-flake-flower": {
+    "codexId": 5403,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005403.webp",
+    "file": "/icons/fire-flake-flower.webp",
+    "grade": 0
+  },
+  "flamingo-blood": {
+    "codexId": 6218,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00006226.webp",
+    "file": "/icons/flamingo-blood.webp",
+    "grade": 0
+  },
+  "fortune-teller-mushroom": {
+    "codexId": 5407,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005407.webp",
+    "file": "/icons/fortune-teller-mushroom.webp",
+    "grade": 0
+  },
+  "fox-blood": {
+    "codexId": 6203,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00006210.webp",
+    "file": "/icons/fox-blood.webp",
+    "grade": 0
+  },
+  "fruit-of-nature": {
+    "codexId": 5205,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005205.webp",
+    "file": "/icons/fruit-of-nature.webp",
+    "grade": 0
+  },
+  "ghost-mushroom": {
+    "codexId": 5414,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005414.webp",
+    "file": "/icons/ghost-mushroom.webp",
+    "grade": 0
+  },
+  "goat-blood": {
+    "codexId": 6228,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00006201.webp",
+    "file": "/icons/goat-blood.webp",
+    "grade": 0
+  },
+  "hp-potion-large": {
+    "codexId": 519,
+    "source": "/items/new_icon/03_etc/08_potion/00000519.webp",
+    "file": "/icons/hp-potion-large.webp",
+    "grade": 0
+  },
+  "hp-potion-medium": {
+    "codexId": 518,
+    "source": "/items/new_icon/03_etc/08_potion/00000518.webp",
+    "file": "/icons/hp-potion-medium.webp",
+    "grade": 0
+  },
+  "hp-potion-small": {
+    "codexId": 517,
+    "source": "/items/new_icon/03_etc/08_potion/00000517.webp",
+    "file": "/icons/hp-potion-small.webp",
+    "grade": 0
+  },
+  "high-quality-amanita-mushroom": {
+    "codexId": 5462,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005419.webp",
+    "file": "/icons/high-quality-amanita-mushroom.webp",
+    "grade": 1
+  },
+  "high-quality-ancient-mushroom": {
+    "codexId": 5461,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005418.webp",
+    "file": "/icons/high-quality-ancient-mushroom.webp",
+    "grade": 1
+  },
+  "high-quality-arrow-mushroom": {
+    "codexId": 5451,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005408.webp",
+    "file": "/icons/high-quality-arrow-mushroom.webp",
+    "grade": 1
+  },
+  "high-quality-bluffer-mushroom": {
+    "codexId": 5460,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005417.webp",
+    "file": "/icons/high-quality-bluffer-mushroom.webp",
+    "grade": 1
+  },
+  "high-quality-cloud-mushroom": {
+    "codexId": 5453,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005410.webp",
+    "file": "/icons/high-quality-cloud-mushroom.webp",
+    "grade": 1
+  },
+  "high-quality-dwarf-mushroom": {
+    "codexId": 5452,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005409.webp",
+    "file": "/icons/high-quality-dwarf-mushroom.webp",
+    "grade": 1
+  },
+  "high-quality-emperor-mushroom": {
+    "codexId": 5456,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005413.webp",
+    "file": "/icons/high-quality-emperor-mushroom.webp",
+    "grade": 1
+  },
+  "high-quality-everlasting-herb": {
+    "codexId": 5449,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005406.webp",
+    "file": "/icons/high-quality-everlasting-herb.webp",
+    "grade": 1
+  },
+  "high-quality-fire-flake-flower": {
+    "codexId": 5446,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005403.webp",
+    "file": "/icons/high-quality-fire-flake-flower.webp",
+    "grade": 1
+  },
+  "high-quality-fortune-teller-mushroom": {
+    "codexId": 5450,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005407.webp",
+    "file": "/icons/high-quality-fortune-teller-mushroom.webp",
+    "grade": 1
+  },
+  "high-quality-ghost-mushroom": {
+    "codexId": 5457,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005414.webp",
+    "file": "/icons/high-quality-ghost-mushroom.webp",
+    "grade": 1
+  },
+  "high-quality-hump-mushroom": {
+    "codexId": 5459,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005416.webp",
+    "file": "/icons/high-quality-hump-mushroom.webp",
+    "grade": 1
+  },
+  "high-quality-silver-azalea": {
+    "codexId": 5445,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005402.webp",
+    "file": "/icons/high-quality-silver-azalea.webp",
+    "grade": 1
+  },
+  "high-quality-sky-mushroom": {
+    "codexId": 5454,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005411.webp",
+    "file": "/icons/high-quality-sky-mushroom.webp",
+    "grade": 1
+  },
+  "high-quality-sunrise-herb": {
+    "codexId": 5444,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005401.webp",
+    "file": "/icons/high-quality-sunrise-herb.webp",
+    "grade": 1
+  },
+  "high-quality-tiger-mushroom": {
+    "codexId": 5455,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005412.webp",
+    "file": "/icons/high-quality-tiger-mushroom.webp",
+    "grade": 1
+  },
+  "high-quality-truffle-mushroom": {
+    "codexId": 5463,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005420.webp",
+    "file": "/icons/high-quality-truffle-mushroom.webp",
+    "grade": 1
+  },
+  "hump-mushroom": {
+    "codexId": 5416,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005416.webp",
+    "file": "/icons/hump-mushroom.webp",
+    "grade": 0
+  },
+  "ibellabs-essence": {
+    "codexId": 4986,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00004986.webp",
+    "file": "/icons/ibellabs-essence.webp",
+    "grade": 0
+  },
+  "kuku-bird-blood": {
+    "codexId": 6217,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00006217.webp",
+    "file": "/icons/kuku-bird-blood.webp",
+    "grade": 0
+  },
+  "lion-blood": {
+    "codexId": 6223,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00006207.webp",
+    "file": "/icons/lion-blood.webp",
+    "grade": 0
+  },
+  "lizard-blood": {
+    "codexId": 6208,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00006217.webp",
+    "file": "/icons/lizard-blood.webp",
+    "grade": 0
+  },
+  "llama-blood": {
+    "codexId": 6227,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00006201.webp",
+    "file": "/icons/llama-blood.webp",
+    "grade": 0
+  },
+  "maple-sap": {
+    "codexId": 5002,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005002.webp",
+    "file": "/icons/maple-sap.webp",
+    "grade": 0
+  },
+  "marmot-blood": {
+    "codexId": 6226,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00006210.webp",
+    "file": "/icons/marmot-blood.webp",
+    "grade": 0
+  },
+  "mineral-water": {
+    "codexId": 9059,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00009059.webp",
+    "file": "/icons/mineral-water.webp",
+    "grade": 0
+  },
+  "monks-branch": {
+    "codexId": 5007,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005007.webp",
+    "file": "/icons/monks-branch.webp",
+    "grade": 0
+  },
+  "monkey-blood": {
+    "codexId": 6211,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00006210.webp",
+    "file": "/icons/monkey-blood.webp",
+    "grade": 0
+  },
+  "ogre-blood": {
+    "codexId": 6221,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00006207.webp",
+    "file": "/icons/ogre-blood.webp",
+    "grade": 0
+  },
+  "old-tree-bark": {
+    "codexId": 5008,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005008.webp",
+    "file": "/icons/old-tree-bark.webp",
+    "grade": 0
+  },
+  "ox-blood": {
+    "codexId": 6206,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00006201.webp",
+    "file": "/icons/ox-blood.webp",
+    "grade": 0
+  },
+  "pig-blood": {
+    "codexId": 6205,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00006201.webp",
+    "file": "/icons/pig-blood.webp",
+    "grade": 0
+  },
+  "pile-of-sunrise-herbs": {
+    "codexId": 5421,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005421.webp",
+    "file": "/icons/pile-of-sunrise-herbs.webp",
+    "grade": 0
+  },
+  "pine-sap": {
+    "codexId": 5003,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005003.webp",
+    "file": "/icons/pine-sap.webp",
+    "grade": 0
+  },
+  "powder-of-darkness": {
+    "codexId": 4801,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00004801.webp",
+    "file": "/icons/powder-of-darkness.webp",
+    "grade": 0
+  },
+  "powder-of-earth": {
+    "codexId": 4804,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00004804.webp",
+    "file": "/icons/powder-of-earth.webp",
+    "grade": 0
+  },
+  "powder-of-flame": {
+    "codexId": 4802,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00004802.webp",
+    "file": "/icons/powder-of-flame.webp",
+    "grade": 0
+  },
+  "powder-of-rifts": {
+    "codexId": 4803,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00004803.webp",
+    "file": "/icons/powder-of-rifts.webp",
+    "grade": 0
+  },
+  "powder-of-time": {
+    "codexId": 4805,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00004805.webp",
+    "file": "/icons/powder-of-time.webp",
+    "grade": 0
+  },
+  "raccoon-blood": {
+    "codexId": 6210,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00006210.webp",
+    "file": "/icons/raccoon-blood.webp",
+    "grade": 0
+  },
+  "red-tree-lump": {
+    "codexId": 5011,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005011.webp",
+    "file": "/icons/red-tree-lump.webp",
+    "grade": 0
+  },
+  "rhino-blood": {
+    "codexId": 6204,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00006226.webp",
+    "file": "/icons/rhino-blood.webp",
+    "grade": 0
+  },
+  "salt": {
+    "codexId": 9001,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00009001.webp",
+    "file": "/icons/salt.webp",
+    "grade": 0
+  },
+  "scorpion-blood": {
+    "codexId": 6224,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00006210.webp",
+    "file": "/icons/scorpion-blood.webp",
+    "grade": 0
+  },
+  "sheep-blood": {
+    "codexId": 6202,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00006201.webp",
+    "file": "/icons/sheep-blood.webp",
+    "grade": 0
+  },
+  "silver-azalea": {
+    "codexId": 5402,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005402.webp",
+    "file": "/icons/silver-azalea.webp",
+    "grade": 0
+  },
+  "sky-mushroom": {
+    "codexId": 5411,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005411.webp",
+    "file": "/icons/sky-mushroom.webp",
+    "grade": 0
+  },
+  "snowfield-cedar-sap": {
+    "codexId": 5024,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005024.webp",
+    "file": "/icons/snowfield-cedar-sap.webp",
+    "grade": 0
+  },
+  "special-amanita-mushroom": {
+    "codexId": 5482,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005419.webp",
+    "file": "/icons/special-amanita-mushroom.webp",
+    "grade": 2
+  },
+  "special-ancient-mushroom": {
+    "codexId": 5481,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005418.webp",
+    "file": "/icons/special-ancient-mushroom.webp",
+    "grade": 2
+  },
+  "special-arrow-mushroom": {
+    "codexId": 5471,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005408.webp",
+    "file": "/icons/special-arrow-mushroom.webp",
+    "grade": 2
+  },
+  "special-bluffer-mushroom": {
+    "codexId": 5480,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005417.webp",
+    "file": "/icons/special-bluffer-mushroom.webp",
+    "grade": 2
+  },
+  "special-cloud-mushroom": {
+    "codexId": 5473,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005410.webp",
+    "file": "/icons/special-cloud-mushroom.webp",
+    "grade": 2
+  },
+  "special-dwarf-mushroom": {
+    "codexId": 5472,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005409.webp",
+    "file": "/icons/special-dwarf-mushroom.webp",
+    "grade": 2
+  },
+  "special-emperor-mushroom": {
+    "codexId": 5476,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005413.webp",
+    "file": "/icons/special-emperor-mushroom.webp",
+    "grade": 2
+  },
+  "special-everlasting-herb": {
+    "codexId": 5469,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005406.webp",
+    "file": "/icons/special-everlasting-herb.webp",
+    "grade": 2
+  },
+  "special-fire-flake-flower": {
+    "codexId": 5466,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005403.webp",
+    "file": "/icons/special-fire-flake-flower.webp",
+    "grade": 2
+  },
+  "special-fortune-teller-mushroom": {
+    "codexId": 5470,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005407.webp",
+    "file": "/icons/special-fortune-teller-mushroom.webp",
+    "grade": 2
+  },
+  "special-ghost-mushroom": {
+    "codexId": 5477,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005414.webp",
+    "file": "/icons/special-ghost-mushroom.webp",
+    "grade": 2
+  },
+  "special-hump-mushroom": {
+    "codexId": 5479,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005416.webp",
+    "file": "/icons/special-hump-mushroom.webp",
+    "grade": 2
+  },
+  "special-silver-azalea": {
+    "codexId": 5465,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005402.webp",
+    "file": "/icons/special-silver-azalea.webp",
+    "grade": 2
+  },
+  "special-sky-mushroom": {
+    "codexId": 5474,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005411.webp",
+    "file": "/icons/special-sky-mushroom.webp",
+    "grade": 2
+  },
+  "special-sunrise-herb": {
+    "codexId": 5464,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005401.webp",
+    "file": "/icons/special-sunrise-herb.webp",
+    "grade": 2
+  },
+  "special-tiger-mushroom": {
+    "codexId": 5475,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005412.webp",
+    "file": "/icons/special-tiger-mushroom.webp",
+    "grade": 2
+  },
+  "special-truffle-mushroom": {
+    "codexId": 5483,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005420.webp",
+    "file": "/icons/special-truffle-mushroom.webp",
+    "grade": 2
+  },
+  "spellbound-catalyst": {
+    "codexId": 820936,
+    "source": "/items/new_icon/03_etc/07_productmaterial/000820936.webp",
+    "file": "/icons/spellbound-catalyst.webp",
+    "grade": 0
+  },
+  "spirits-leaf": {
+    "codexId": 5006,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005006.webp",
+    "file": "/icons/spirits-leaf.webp",
+    "grade": 0
+  },
+  "sugar": {
+    "codexId": 9002,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00009002.webp",
+    "file": "/icons/sugar.webp",
+    "grade": 0
+  },
+  "sunrise-herb": {
+    "codexId": 5401,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005401.webp",
+    "file": "/icons/sunrise-herb.webp",
+    "grade": 0
+  },
+  "thuja-sap": {
+    "codexId": 5020,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005020.webp",
+    "file": "/icons/thuja-sap.webp",
+    "grade": 0
+  },
+  "tiger-mushroom": {
+    "codexId": 5412,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005412.webp",
+    "file": "/icons/tiger-mushroom.webp",
+    "grade": 0
+  },
+  "trace-of-nature": {
+    "codexId": 5960,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005960.webp",
+    "file": "/icons/trace-of-nature.webp",
+    "grade": 0
+  },
+  "troll-blood": {
+    "codexId": 6220,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00006207.webp",
+    "file": "/icons/troll-blood.webp",
+    "grade": 0
+  },
+  "truffle-mushroom": {
+    "codexId": 5420,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005420.webp",
+    "file": "/icons/truffle-mushroom.webp",
+    "grade": 0
+  },
+  "waragon-blood": {
+    "codexId": 6215,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00006201.webp",
+    "file": "/icons/waragon-blood.webp",
+    "grade": 0
+  },
+  "weasel-blood": {
+    "codexId": 6212,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00006210.webp",
+    "file": "/icons/weasel-blood.webp",
+    "grade": 0
+  },
+  "weeds": {
+    "codexId": 5600,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005600.webp",
+    "file": "/icons/weeds.webp",
+    "grade": 0
+  },
+  "white-truffle-mushroom": {
+    "codexId": 820909,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00820909.webp",
+    "file": "/icons/white-truffle-mushroom.webp",
+    "grade": 0
+  },
+  "wild-grass": {
+    "codexId": 5439,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00005439.webp",
+    "file": "/icons/wild-grass.webp",
+    "grade": 0
+  },
+  "wolf-blood": {
+    "codexId": 6214,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00006226.webp",
+    "file": "/icons/wolf-blood.webp",
+    "grade": 0
+  },
+  "worm-blood": {
+    "codexId": 6209,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00006217.webp",
+    "file": "/icons/worm-blood.webp",
+    "grade": 0
+  },
+  "yak-blood": {
+    "codexId": 6225,
+    "source": "/items/new_icon/03_etc/07_productmaterial/00006207.webp",
+    "file": "/icons/yak-blood.webp",
+    "grade": 0
+  },
+  "elixir-of-remarkable-will": {
+    "codexId": 703,
+    "grade": 2,
+    "source": "/items/new_icon/03_etc/08_potion/00000640.webp",
+    "file": "/icons/elixir-of-remarkable-will.webp"
+  }
+}

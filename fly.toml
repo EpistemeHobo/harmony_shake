@@ -1,0 +1,32 @@
+# fly.io config for Harmony Shake (static site, nginx on port 8080).
+# First time:  fly launch --no-deploy --copy-config   (pick a unique app name), then  fly deploy
+app = "harmony-shake"
+primary_region = "sin"   # Singapore, closest to Thailand
+
+[build]
+  dockerfile = "Dockerfile"
+
+[http_service]
+  internal_port = 8080
+  force_https = true             # redirect http -> https
+  auto_stop_machines = "stop"    # idle machines stop (cheap, and nothing to attack while idle)
+  auto_start_machines = true
+  min_machines_running = 0
+
+  # Flood protection at the edge: cap requests per machine.
+  [http_service.concurrency]
+    type = "requests"
+    soft_limit = 150
+    hard_limit = 200
+
+  [[http_service.checks]]
+    grace_period = "5s"
+    interval = "30s"
+    method = "GET"
+    path = "/healthz"
+    timeout = "3s"
+
+[[vm]]
+  memory = "256mb"
+  cpu_kind = "shared"
+  cpus = 1
